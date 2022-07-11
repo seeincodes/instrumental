@@ -1,0 +1,25 @@
+{
+  "name": "@username/instrumental",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seeinplays/instrumental.git"
+  },
+  "author": "“Xian <“seeinplays@gmail.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seeinplays/instrumental/issues"
+  },
+  "homepage": "https://github.com/seeinplays/instrumental#readme",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
